@@ -150,6 +150,11 @@ ul{
 .footer a img{
     width: 50%;
 }
+.foot--copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 @media (max-width:868px) {
     .container{
